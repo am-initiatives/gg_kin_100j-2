@@ -1,0 +1,347 @@
+body{
+	overflow-x: hidden;
+	background-color: rgba(20,90,255,1); /*Couleur background*/
+	background-image: radial-gradient(ellipse farthest-corner at bottom center, transparent 0%, rgba(10,10,44,1) 100%); /*Couleur background*/
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top:50px;
+	color:white;
+	font-family: 'Quicksand', sans-serif; /*Police générale*/
+	font-size: 18px; /*Taille police générale*/
+}
+
+a, a:focus, a:hover{
+	color:inherit;
+    text-decoration: inherit;
+}
+
+.navbar-fixed-top{
+	z-index:998;
+}
+#sb-container{
+	z-index:999;
+}
+
+
+ /*Barre de navigation*/
+.img_nav{
+	display: inline-block;
+	float:left;
+	vertical-align: middle;
+	height: 50px;
+	width: 50px;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: -1em;
+	background-image: url('img/icon.png');
+	background-position: -50px 0;
+	background-size: cover;
+}
+.navbar{
+	font-weight: bolder!important;
+}
+.navbar-right{
+	margin-right:10px;
+}
+.navbar, .nav .open a{
+	background-color: rgba(10,10,44,1); /*Couleur fond*/
+	background-image: linear-gradient(transparent 90%, rgba(0,0,0,0.1) 100%);
+	color: rgba(0,145,255,1); /*Couleur fond*/
+}
+.navbar-brand{
+	font-family: 'Questrial', cursive; /*Police*/
+}
+.navbar-header:hover, .nav li a:focus, .nav li a:hover, .nav .open a:focus, .nav .open a:hover{
+	background-color: rgba(25,25,100,1); /*Couleur fond passage souris*/
+}
+
+
+.dropdown-menu{
+	background-color: rgba(10,10,44,1); /*Couleur fond*/
+	width: 160px;
+	font-size: 16px; /*Taille police*/
+}
+.dropdown-menu ul{
+	min-width: ;
+}
+.dropdown-menu a{
+	color: white!important; /*Couleur texte*/
+}
+.dropdown-menu a:focus, .dropdown-menu a:hover{
+	background-color: rgba(25,25,100,1); /*Couleur fond passage souris*/
+	font-weight: bold;
+}
+
+
+/* Ent-tête*/
+header{
+	position:relative;
+    height:500px;
+	overflow:hidden;
+	background-image: url(img/header.png), radial-gradient(farthest-side at 50% -60%, rgba(20,90,255,1) 90%, transparent 100%); /*Image header + couleur fond*/
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size: cover;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+}
+.header-logo{
+	height:500px;
+	width:100%;
+	margin:auto;
+	// background-repeat:no-repeat;
+	// background-position:center 10%;
+}
+.header-text{
+	display: block;
+	width:200px;
+	margin:auto;
+	margin-top:-75px;
+	padding:10px 20px;
+	background: rgba(255,255,255,0.1); /*Couleur fond bouton*/
+    border: 2px solid white; /*Couleur bordure bouton*/
+    color: #fff; /*Couleur texte bouton*/
+    font-family: 'Noto Sans', sans-serif; /*Police bouton*/
+    font-size:20px; /*Taille texte bouton*/
+    font-variant:small-caps;
+}
+.header-text:hover{
+	background-color: rgba(255,255,255,0.2); /*Couleur fond bouton passage souris*/
+}
+
+
+/*Divers*/
+section{
+	margin:auto;
+	padding:30px 30px 30px 20px;
+	font-size:18px; /*Taille texte générale sections*/
+	text-align: center;
+}
+.anchor{
+	margin-top:-80px;
+	margin-bottom:80px;
+}
+h1{ /*Gros titres sections*/
+	font-size: 3em;
+	font-family: 'Questrial', cursive;
+	text-align: center;
+	margin-bottom: 0.5em;
+}
+h2{ /*Moyens titres sections*/
+	font-size: 30px;
+	font-weight: bolder;
+}
+hr { /*Séparateur*/
+    margin-top: 0px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid rgba(0,145,255,1);
+}
+.row{
+	text-align: center;
+}
+
+
+/*Présentation*/
+.presentation-txt{
+	padding-top: 3em; /*Hauteur texte*/
+	text-align: justify;
+}
+.presentation-img{
+	min-height:414px; /*Taille img*/
+}
+.presentation-txt h2{ /*Titre1*/
+	font-size:1em;
+	font-weight:normal;
+	text-align:center;
+	margin-top: 0;
+}
+.presentation-txt h3{ /*Titre2*/
+	font-size:2em;
+	font-weight:bold;
+	text-align:center;
+	margin-top: 0;
+}
+.presentation-txt h4{ /*Titre3*/
+	font-size:1em;
+	font-weight:normal;
+	text-align:center;
+	margin-top: 1em;
+}
+
+
+/*Teaser*/
+.teaser iframe{
+	height:400px; /*Hauteur*/
+	width:100%; /*Largeur*/
+}
+
+
+/*Artistes*/
+.row-artistes .img-responsive{
+	width: 70%;
+}
+.row-artistes .img-circle{
+	margin: auto;
+	box-shadow: 0px 3px 10px black;
+}
+.row-artistes .col{
+	padding: 0em 0em 1em 0em;
+}
+.row-artistes .social-buttons{
+	margin-top:-0.5em;
+}
+.row-artistes .social-buttons span.fa{
+	padding: 0.1em 0.1em;
+	border-radius: 5px;
+}
+.row-artistes .social-buttons span.fa:hover{
+	background-color: rgba(0,0,0,0.3);
+}
+
+
+/*Ambiances*/
+.row-ambiances{
+	margin-bottom: 1em;
+	box-shadow: 0px 3px 10px black;
+}
+.row-ambiances .ambiance-txt{
+	background-color: rgba(0,0,0,0.6);
+	padding:1em;
+	min-width:7em;
+}
+.row-ambiances h3{ /*Titres Ambiance*/
+	font-family: 'Questrial', cursive;
+}
+.row-ambiances .responsive {
+    width: 100%;
+}
+.ambiance-img{
+	background-position: center center;
+	background-size: 100% auto;
+}
+.ambiance1{background-image: url(img/ambiance1.png);}
+.ambiance2{background-image: url(img/ambiance2.png);}
+.ambiance3{background-image: url(img/ambiance3.png);}
+.ambiance4{background-image: url(img/ambiance4.png);}
+.ambiance5{background-image: url(img/ambiance5.png);}
+.ambiance6{background-image: url(img/ambiance6.png);}
+.ambiance7{background-image: url(img/ambiance7.png);}
+.ambiance8{background-image: url(img/ambiance8.png);}
+
+
+ /*Galerie*/
+.row-galerie img{
+	margin:3px 1px;
+	-webkit-filter: contrast(100%); /*Effets sur miniatures*/
+    filter: contrast(100%);
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+}
+.row-galerie img:hover{
+	-webkit-filter: contrast(110%); /*Effets sur miniatures passage souris*/
+    filter: contrast(110%);
+}
+
+
+/*Restaurant*/
+.row-restaurant a{
+	text-decoration:underline;
+}
+.row-restaurant a:hover{
+	text-decoration:none;
+}
+.col-menu{
+	margin-top: 1em;
+	background-image: url(img/carte.png);/*Fond Menu*/
+	background-size: cover;
+	color:black;/*Couleur Police Menu*/
+	padding: 20px 10%;
+	border-radius:5px;
+	box-shadow: 0px 3px 20px black, 0px 0px 5px 2px black inset;
+}
+.col-menu h3{/*Titres Menu*/
+	font-weight: bold;
+	margin-top:20px;
+	margin-bottom:0px;
+}
+.col-menu p{
+	margin-top:10px;
+	margin-bottom:0px;
+}
+.col-menu p.last{
+	margin-bottom:20px;
+}
+.col-sousmenu{
+	margin-top:1em;
+}
+.col-sousmenu p.note{/*Notes sous Menu*/
+	font-size: 12px;
+	font-style: italic;
+}
+
+
+/*Flaconnage*/
+.flaconnage p{
+	text-align: justify;
+}
+.flaconnage img{
+	width: 50%;
+}
+
+
+/*Infos*/
+.row-infos p{
+	margin-bottom: 1.5em;
+}
+.row-infos p.note{/*Notes Informations*/
+	font-size: 10px;
+	font-style: italic;
+}
+.row-infos p.note i{
+	font-style: normal;
+}
+.row-infos p.note a{
+	text-decoration: underline;
+}
+.row-infos p.note a:hover{
+	text-decoration: none;
+}
+.row-infos br{
+	line-height: 2em;
+}
+.row-infos iframe{/*Google Maps*/
+	width:100%;
+}
+@media (min-width: 992px) {
+	.row-infos .plusbas{
+		margin-top:4em;
+	}
+}
+
+/*Contacts*/
+.row-contact a{
+	text-decoration: none;
+}
+.row-contact a:hover{
+	text-decoration: underline;
+}
+
+
+/*Partenaire*/
+.row-partenaires .col-md-2{
+}
+.row-partenaires img{
+	width: 80px; /*Taille img*/
+	line-height: 80px;
+	vertical-align: middle;
+	margin:0.5em 2em;
+}
+
+
+ /*Footer*/
+.row-footer p.social-buttons a:hover{
+	color:rgb(0,185,255); /*Couleur Bouton FB passage souris*/
+}
