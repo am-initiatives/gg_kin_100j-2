@@ -23,11 +23,9 @@
 						<li><a href="./#infos">Horaires</a></li>
 						<li><a href="./#infos">Tarifs</a></li>
 						<li><a href="./#infos">Accès</a></li>
-						<li><a href="./#hotels">Hotels</a></li>
 						<li><a href="./#contact">Nous Contacter</a></li>
 					</ul>
 				</li>
-				<li><a href="" target="_blank">Billetterie</a></li>
 			</ul>
 		</div>
 	</div>

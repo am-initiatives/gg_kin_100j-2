@@ -7,13 +7,13 @@
 			<div class="col-md-offset-1 col-md-4">
 				<h2>Horaires</h2>
 				<h3>Samedi 20 Mai</h3>
-				<p><strong>22h</strong> Ouverture du Gala</p>
+				<p><strong>22H</strong> Ouverture du Gala</p>
 			</div>
 			<div class="col-md-offset-2 col-md-4">
 				<h2>Tarifs</h2>
 				<p><strong>Étudiants</strong> 25€ <span style="font-size:12px">(prévente, 30€ sur place)</span><br />
 				<strong>Normal</strong> 30€ <span style="font-size:12px">(prévente, 35€ sur place)</span></p>
-				<p class="note">Paiement par CB ou espèces.<br />Préventes disponibles sur <a href="" target="_blank">Weezevent</a> et au pub <i>The Kerry</i>, ou à partir du Lundi 15 Mai à la résidence des <i>Arts & Métiers</i> de 18h à 20h.</p>
+				<p class="note">Paiement par CB ou espèces.<br />Préventes disponibles prochainement sur <a href="" target="_blank">Weezevent</a> et à partir du Lundi 15 Mai à la résidence des <i>Arts & Métiers</i> de 18h à 20h.</p>
 			</div>
 		</div>
 		<div class="row row-infos">

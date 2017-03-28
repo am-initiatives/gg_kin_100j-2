@@ -76,7 +76,7 @@ a, a:focus, a:hover{
 /* Ent-tête*/
 header{
 	position:relative;
-    height:500px;
+    height:550px;
 	overflow:hidden;
 	background-image: url(img/header.png), radial-gradient(farthest-side at 50% -60%, rgba(20,90,255,1) 90%, transparent 100%); /*Image header + couleur fond*/
 	background-repeat:no-repeat;
@@ -98,7 +98,7 @@ header{
 	display: block;
 	width:200px;
 	margin:auto;
-	margin-top:-75px;
+	margin-top:-20px;
 	padding:10px 20px;
 	background: rgba(255,255,255,0.1); /*Couleur fond bouton*/
     border: 2px solid white; /*Couleur bordure bouton*/
