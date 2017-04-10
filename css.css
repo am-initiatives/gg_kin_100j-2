@@ -1,6 +1,6 @@
 body{
 	overflow-x: hidden;
-	background-color: rgba(20,90,255,1); /*Couleur background*/
+	background-color: rgba(0,110,230,1); /*Couleur background*/
 	background-image: radial-gradient(ellipse farthest-corner at bottom center, transparent 0%, rgba(10,10,44,1) 100%); /*Couleur background*/
 	background-size: cover;
 	background-attachment: fixed;
@@ -78,7 +78,7 @@ header{
 	position:relative;
     height:550px;
 	overflow:hidden;
-	background-image: url(img/header.png), radial-gradient(farthest-side at 50% -60%, rgba(20,90,255,1) 90%, transparent 100%); /*Image header + couleur fond*/
+	background-image: url(img/header.png), radial-gradient(farthest-side at 50% -60%, rgba(0,110,230,1) 90%, transparent 100%); /*Image header + couleur fond*/
 	background-repeat:no-repeat;
 	background-position:center center;
 	background-size: cover;
@@ -230,6 +230,7 @@ hr { /*Séparateur*/
 .ambiance6{background-image: url(img/ambiance6.png);}
 .ambiance7{background-image: url(img/ambiance7.png);}
 .ambiance8{background-image: url(img/ambiance8.png);}
+.ambiance9{background-image: url(img/ambiance9.png);}
 
 
  /*Galerie*/

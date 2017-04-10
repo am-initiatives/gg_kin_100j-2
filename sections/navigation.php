@@ -23,6 +23,7 @@
 						<li><a href="./#infos">Horaires</a></li>
 						<li><a href="./#infos">Tarifs</a></li>
 						<li><a href="./#infos">Accès</a></li>
+						<li><a href="./#flaconnage">Flaconnage</a></li>
 						<li><a href="./#contact">Nous Contacter</a></li>
 					</ul>
 				</li>

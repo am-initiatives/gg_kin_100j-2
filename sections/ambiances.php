@@ -63,7 +63,29 @@
 				<div class="row ambiance-img ambiance6">
 					<div class="col-sm-12 col-md-5 ambiance-txt">
 						<h3>Hard-Rock K'fé</h3>
-						<p>Un véritable Irish Pub : scène rock & sélection de bières pression. </p>
+						<p>Un véritable Irish Pub : scène rock & sélection de bières pression.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row row-ambiances">
+			<div class="col-md-12">
+				<div class="row ambiance-img ambiance8">
+					<div class="col-sm-12 col-md-offset-7 col-md-5 ambiance-txt">
+						<h3>Jazz</h3>
+						<p>Laissez-vous emporter par des mélodies douces et légères de piano et de saxophone.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row row-ambiances">
+			<div class="col-md-12">
+				<div class="row ambiance-img ambiance9">
+					<div class="col-sm-12 col-md-5 ambiance-txt">
+						<h3>Art Zone</h3>
+						<p>Des artistes talentueux vous proposerons une performance en live sur le thème du Gala : Prestige & Elégance.</p>
 					</div>
 				</div>
 			</div>
