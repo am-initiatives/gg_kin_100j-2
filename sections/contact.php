@@ -14,15 +14,12 @@
 			<div class="col-md-3">
 				<h2>Email</h2>
 				<p><strong>Renseignements</strong><br />
-				<span style="font-size:12px"><a href="mailto:leila.grotard@ensam.eu">leila.grotard@ensam.eu</a>  <a href="mailto:clement.dahmani@ensam.eu">clement.dahmani@ensam.eu</a></span><br />
 				<span style="font-size:12px"><a href="mailto:johan.combe@ensam.eu">johan.combe@ensam.eu</a>  <a href="mailto:lucas.michel@ensam.eu">lucas.michel@ensam.eu</a></span><br />
 				<strong>Partenariat</strong><br />
 			    <span style="font-size:12px"><a href="mailto:marion.subtil@ensam.eu">marion.subtil@ensam.eu</a>  <a href="mailto:allan.senan@ensam.eu">allan.senan@ensam.eu</a></span><br />
 			</div>
 			<div class="col-md-3">
 				<h2>Téléphone</h2>
-				<span style="font-size:12px">Leïla : 06 28 93 86 92</span><br />
-				<span style="font-size:12px">Clément : 06 07 68 37 99</span><br />
 				<span style="font-size:12px">Johan : 06 11 58 32 59</span><br />
 				<span style="font-size:12px">Lucas : 06 12 12 41 09</span><br />
 				<strong>Archis</strong><br />

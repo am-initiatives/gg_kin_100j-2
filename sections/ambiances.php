@@ -30,7 +30,7 @@
 				<div class="row ambiance-img ambiance3">
 					<div class="col-sm-12 col-md-offset-7 col-md-5 ambiance-txt">
 						<h3>Rock Salsa</h3>
-						<p>Experts ou Débutant, pratiquez vos talents de danseurs toute la nuit.</p>
+						<p>Expert ou Débutant, pratiquez vos talents de danseur toute la nuit.</p>
 					</div>
 				</div>
 			</div>
@@ -85,7 +85,7 @@
 				<div class="row ambiance-img ambiance9">
 					<div class="col-sm-12 col-md-5 ambiance-txt">
 						<h3>Art Zone</h3>
-						<p>Des artistes talentueux vous proposerons une performance en live sur le thème du Gala : Prestige & Elégance.</p>
+						<p>Des artistes talentueux vous proposeront une performance en live sur le thème du Gala : Prestige & Elégance.</p>
 					</div>
 				</div>
 			</div>

@@ -8,7 +8,8 @@
 				<h4>Rendez-vous</h4>
 				<h3>Samedi 20 Mai 2017</h3>
 				<h2>2 Cours des Arts & Métiers - 22H</h2>
-				<h3>Retrouvez-nous sur <u><a href="" target="https://www.facebook.com/events/283545902082299/">Facebook</a></u></h3>
+				<h3>Retrouvez-nous sur <u><a href="https://www.facebook.com/events/283545902082299/" target="_blank">Facebook</a></u></h3>
+				<h2>La billetterie en ligne est <u><a href="https://www.weezevent.com/nuitdes100jours2017" target="_blank">disponible !</a></u> </h2>
 			</div>
 			<div class="col-sm-6 col-md-6 presentation-img"><img src="img/presentation.png" /></div>
 		</div>
