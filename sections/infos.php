@@ -22,15 +22,16 @@
 				<p><span class="glyphicon glyphicon-map-marker" style="color:#E65100"></span> <strong>Entrée</strong> 2 cours des Arts & Métiers <span class="glyphicon glyphicon-map-marker" style="color:#E65100"></span><br />
 				<span class="glyphicon glyphicon-map-marker" style="color:#0288D1"></span> <strong>Achat Préventes</strong> <span class="glyphicon glyphicon-map-marker" style="color:#0288D1"></span></p>
 				<p>
-					<iframe src="https://www.google.com/maps/d/embed?mid=1M6y9-TFe175NWq76kJup68dsKp0" width="640" height="570"></iframe>
+					<iframe src="https://www.google.com/maps/d/embed?mid=1M6y9-TFe175NWq76kJup68dsKp0" width="640" height="650"></iframe>
 				</p>
 			</div>
 			<div class="col-md-offset-1 col-md-4 plusbas">
 				<h2>Points de Vente</h2>
 				<p>
-				<strong>Bar The Kerry</strong><br /> 38 Rue du la Verrerie, Aix-en-Provence
-				<strong>Café le Major</strong><br /> 55 Boulevard des Dames, Marseille
-				<strong>FNAC</strong><br /> 160 Av. Giuseppe Verdi, Aix-en-Provence
+				<strong>Bar The Kerry</strong><br /> 38 Rue du la Verrerie, Aix-en-Provence<br />
+				<strong>Café le Major</strong><br /> 55 Boulevard des Dames, Marseille<br />
+				<strong>L'Eau de Cassis</strong><br /> 1 Rue Pytheas, Marseille<br />
+				<strong>FNAC</strong><br /> 160 Av. Giuseppe Verdi, Aix-en-Provence<br />
 				<strong>Résidence des Arts</strong><br /> 19 Rue du RICM, Aix-en-Provence <br />
 				<span style="font-size:12px">Ce dernier point de vente sera ouvert à partir du Lundi 15 Mai.</span></p>
 			</div>
